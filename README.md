@@ -1,2 +1,2 @@
-# tallerClasificacion
+# Clasificador KDD por Naive Bayes
  
